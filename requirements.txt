@@ -1,0 +1,13 @@
+bcrypt==4.1.2
+customtkinter==5.2.2
+faiss-gpu==1.7.2
+langchain==0.1.17
+langchain_anthropic==0.1.11
+langchain_community==0.0.36
+langchain_core==0.1.49
+langchain_voyageai==0.1.0
+langsmith==0.1.53
+Pygments==2.17.2
+PyPDF2==3.0.1
+python-dotenv==1.0.1
+six==1.16.0
